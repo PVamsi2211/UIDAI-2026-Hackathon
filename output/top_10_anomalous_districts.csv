@@ -1,0 +1,11 @@
+year_month,state_name,district_name,pincode,age_0_5,age_5_17,age_18_plus,demo_young,demo_old,bio_young,bio_old,enrollment_count,update_count,child_ratio,elderly_pressure,enrol_velocity,month,is_weekend,population,enrollments_per_10k,updates_per_10k,update_to_enrollment_ratio,enrollment_mom_change,update_mom_change,anomaly_flag,anomaly_reason
+2025-04-01,Delhi,South Delhi,110062,0.0,0.0,0.0,699.0,9272.0,5861.0,7520.0,0.0,13381.0,0.0,13.245714285714286,0.0,4,0,,,,13381.0,0.0,25.237254901960785,1,High biometric re-capture demand
+2025-04-01,Delhi,North West Delhi,110086,0.0,0.0,0.0,1938.0,11133.0,5180.0,7625.0,0.0,12805.0,0.0,5.741619391438886,-60.0,4,0,,,,12805.0,-1.0,1.8781748707574737,1,High biometric re-capture demand
+2025-04-01,Delhi,South Delhi,110044,0.0,0.0,0.0,1333.0,6949.0,5411.0,6984.0,0.0,12395.0,0.0,5.209145427286357,0.0,4,0,,,,12395.0,0.0,3.349122807017544,1,High biometric re-capture demand
+2025-04-01,Delhi,North East Delhi,110094,0.0,0.0,0.0,2690.0,9668.0,6921.0,5066.0,0.0,11987.0,0.0,3.59271646228168,0.0,4,0,,,,11987.0,0.0,0.9421581335061568,1,High biometric re-capture demand
+2025-04-01,Delhi,North West Delhi,110042,0.0,0.0,0.0,0.0,0.0,4112.0,6188.0,0.0,10300.0,0.0,0.0,0.0,4,0,,,,10300.0,-1.0,1.5964204688681622,1,High biometric re-capture demand
+2025-04-01,Delhi,West Delhi,110041,0.0,0.0,0.0,2229.0,7180.0,3866.0,5950.0,0.0,9816.0,0.0,3.219730941704036,0.0,4,0,,,,9816.0,0.0,2.0352504638218925,1,High biometric re-capture demand
+2025-04-01,Uttar Pradesh,Firozabad,283203,0.0,0.0,0.0,651.0,8545.0,8002.0,1451.0,0.0,9453.0,0.0,13.105828220858896,-127.0,4,0,,,,9453.0,0.0,149.04761904761904,1,High biometric re-capture demand
+2025-03-01,Uttar Pradesh,Moradabad,244001,0.0,0.0,0.0,1034.0,10410.0,5928.0,3483.0,0.0,9411.0,0.0,10.057971014492754,0.0,3,1,,,,9411.0,0.0,56.38414634146341,1,High biometric re-capture demand
+2025-04-01,Madhya Pradesh,Singrauli,486886,0.0,0.0,0.0,567.0,2265.0,7085.0,1900.0,0.0,8985.0,0.0,3.987676056338028,0.0,4,0,,,,8985.0,0.0,43.925,1,High biometric re-capture demand
+2025-05-01,Delhi,North West Delhi,110086,0.0,0.0,0.0,0.0,0.0,3397.0,5512.0,0.0,8909.0,0.0,0.0,0.0,5,0,,,,8909.0,0.0,1.2973182052604435,1,High biometric re-capture demand
